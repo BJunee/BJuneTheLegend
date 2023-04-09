@@ -1,6 +1,7 @@
-hi
-this is my .md file
+#BJuneTheLegend
 
-i code
+Python; Unity; Web enjoyer
+I make CLI projects in pyrhon
+Sitting on unfinished projects...
 
-:)
+
