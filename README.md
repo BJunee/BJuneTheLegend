@@ -1,6 +1,6 @@
 # BJuneTheLegend
 Python; Unity; Web enjoyer
-I make CLI projects in pyrhon
+I make CLI projects in python
 Sitting on unfinished projects...
 
 
