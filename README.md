@@ -1,6 +1,5 @@
 # BJuneTheLegend
-Python; Unity; Web enjoyer
-I make CLI projects in python
-Sitting on unfinished projects...
 
-
+- I make C# applications
+- Plenty of experience in Python
+- Alawys learning new programming languages when I get bored
